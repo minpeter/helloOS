@@ -9,7 +9,7 @@
 
 > 클론 후, helloOS폴더로 이동
 
-> make (nasm를 이용하여 컴파일후 boot.bin 생성)
+> make (nasm를 이용하여 컴파일후 boot.bin 생성) or nasm -f bin -o boot.bin boot.asm
 
 
 
