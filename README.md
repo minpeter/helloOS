@@ -5,7 +5,7 @@
 
 ## 부팅 방법
 
-> sudo apt-get install nams 또는 운영체제에 맞는 nasm 설치
+> sudo apt install nasm 또는 운영체제에 맞는 nasm 설치
 
 > 클론 후, helloOS폴더로 이동
 
@@ -27,7 +27,7 @@
 
 > 가상머신으로 부팅
 
-> sudo apt-get install qemu-system-x86_64 (qemu 설치)
+> sudo apt install qemu-system-x86_64 (qemu 설치)
 
 > qemu-system-x86_64 boot.bin (가상머신 실행)   
 
