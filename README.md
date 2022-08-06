@@ -27,7 +27,7 @@
 
 > 가상머신으로 부팅
 
-> sudo apt install qemu-system-x86_64 (qemu 설치)
+> sudo apt install qemu-system-x86 (qemu 설치)
 
 > qemu-system-x86_64 boot.bin (가상머신 실행)   
 
